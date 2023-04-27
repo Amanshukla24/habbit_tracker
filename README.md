@@ -1,8 +1,7 @@
 # Habit Tracker App
 > A habit tracking app that will help you to create and maintain an awesome daily and weekly routine, which is one of the most powerful tools for achieving your goals and sending your life into an upwards spiral.
 
-![Screenshot (283)](Screenshot(17).png)
-
+![screenshot]("./Screenshot(17).png")
 ## Technologies Used
 1.  NodeJS
 2.  Express
@@ -19,8 +18,7 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/habit-tracker.git`
-
+`git clone https://github.com/Amanshukla24/habbit_tracker
 ##### Into the project directory
 
 `cd habit-tracker`
@@ -33,7 +31,7 @@
 
 `npm start`
 
-#### The Server should now be running at http://localhost:3000/
+#### The Server should now be running at http://localhost:3001/
 
 ## Folder Structure
 
